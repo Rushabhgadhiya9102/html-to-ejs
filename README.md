@@ -6,6 +6,10 @@
 
 This project is a web application built with Node.js and Express, serving static files and rendering dynamic content using EJS templates. It includes styling for various components such as calendars and DataTables, leveraging external libraries for enhanced functionality.
 
+## Live Demo
+
+You can view a live demo of the application at the following link: [AdminPanel](https://html-to-ejs.onrender.com)
+
 ## Features
 
 *   **Web Server:** Built with Express.js to handle HTTP requests.
